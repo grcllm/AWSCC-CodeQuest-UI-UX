@@ -8,7 +8,7 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 - Link to your own file of **"Figma Basics Tutorial"**
 https://www.figma.com/file/2aoKuVRwzC1MNuu9pF3pBl/AWSCC-Figma-Workshop%3A-Basics-(Community)?type=design&node-id=5%3A1668&mode=design&t=R2b7dI8Oeaqp0opl-1
 
-![Product page](https://github.com/grcllm/AWSCC-CodeQuest-UI-UX/assets/150143754/59c6a5a6-86b3-4f21-9ac9-e7b5c6a2d784)
+![Product page](https://github.com/grcllm/AWSCC-CodeQuest-UI-UX/assets/150143754/d257ef5c-17c1-4c75-86cb-5f04083aa0eb)
 
 - Brief explanation of your experience or reflection
 ![image](https://github.com/grcllm/AWSCC-CodeQuest-UI-UX/assets/150143754/0e1daca9-f839-4627-80bc-9b593845d996)
